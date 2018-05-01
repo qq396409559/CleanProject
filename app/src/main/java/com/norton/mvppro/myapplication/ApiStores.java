@@ -15,7 +15,7 @@ import retrofit2.http.Url;
  * @date 2017/4/26.
  * @description
  */
-
+//测试
 public interface ApiStores { 
      String BASEURL = "http://www.weather.com.cn/";
 
