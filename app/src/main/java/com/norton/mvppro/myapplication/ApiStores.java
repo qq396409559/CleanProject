@@ -16,7 +16,7 @@ import retrofit2.http.Url;
  * @description
  */
 
-public interface ApiStores {
+public interface ApiStores { 
      String BASEURL = "http://www.weather.com.cn/";
 
     @GET("adat/sk/{cityId}.html")
